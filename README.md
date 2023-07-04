@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abobaker</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-abobaker&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abobaker" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-abobaker/ahmed-abobaker](https://github.com/ahmed-abobaker/ahmed-abobaker)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmed-abobaker](https://github.com/ahmed-abobaker)
 
 - 💬 Ask me about **laravel, livewire, filament**
 
